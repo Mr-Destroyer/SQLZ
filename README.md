@@ -84,7 +84,7 @@ python3 sqlfinder.py http://target.com -o results.txt
 
 ## 📸 Screenshot
 
-![SQL Finder in Action](.screenshots/finder.png)
+![SQL Finder in Action](screenshots/finder.png)
 
 ## 📝 Parameters
 
@@ -176,7 +176,7 @@ python3 vulntester.py -u "http://target.com/page?id=1" -t 20
 
 ## 📸 Screenshot
 
-![Vulnerability Tester in Action](.screenshots/tester.png)
+![Vulnerability Tester in Action](screenshots/tester.png)
 
 ## 📝 Parameters
 
@@ -326,7 +326,7 @@ python3 credsfinder.py -u "http://target.com/page?id=1" \
 
 ## 📸 Screenshot
 
-![Credential Finder in Action](.screenshots/password.png)
+![Credential Finder in Action](screenshots/password.png)
 
 ## 📝 Parameters
 
